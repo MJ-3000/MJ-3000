@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Fatoumata Jalloh
 
 #### Your section leader's name
 
-TODO
+David Loder
 
 #### Project title
 
-TODO
+Wordie Game
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+I have created the wordle game as a website, I followed a youtube tutorial and used HTML, CSS, and JavaScript to code the game. I changed the colors added a logo and made it look prettier and less bland.
 
 #### What have you not done for your project yet?
 
-TODO
+I have not added a popup screen that tells you the rules, I also wanted to do a congragulations page when you find the answer.
 
 #### What problems, if any, have you encountered?
 
-TODO
+Some problems that I have encountered is that I needed to cut out some things like the increased levels and the timer, just because it would take more time.
